@@ -1,0 +1,36 @@
+n: underline;
+}
+
+.divider {
+  border-top: 1px dashed #2aff2a;
+  margin: 15px 0;
+}
+
+.cmd {
+  color: #9cff9c;
+}body {
+  background-color: #0c140c;
+  color: #3aff3a;
+  font-family: monospace;
+  padding: 30px;
+  line-height: 1.5;
+}
+
+.screen {
+  border: 2px solid #2aff2a;
+  padding: 20px;
+  max-width: 900px;
+}
+
+h1, h2 {
+  color: #6dff6d;
+  text-shadow: 0 0 4px #2aff2a;
+}
+
+a {
+  color: #9cff9c;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoratio
